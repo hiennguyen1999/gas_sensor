@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=TB1-4
+Added Pin To Net: NetName=GND Pin=TB1-29
+Added Room: Name=FULL_2_SCH

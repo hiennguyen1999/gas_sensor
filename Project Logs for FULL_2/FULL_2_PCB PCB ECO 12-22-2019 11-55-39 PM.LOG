@@ -1,0 +1,5 @@
+Added Component: Designator=LS?(SPEAKER)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD2_1 Pin=LS?-1
+Added Pin To Net: NetName=5V Pin=LS?-2
+Added Member To Class: ClassName=FULL_2_SCH Member=Component LS? TMB12A05

@@ -1,0 +1,78 @@
+Teardrop Report FULL_2_PCB.PcbDoc
+On 12/23/2019 at 12:36:54 AM
+
+Pads visited                : 61
+
+Vias visited                : 4
+
+Pad teardrops failed : 0
+
+Pad JP1-2(73mm,72.2mm) on Multi-Layer
+Pad JP1-1(78.08mm,72.2mm) on Multi-Layer
+Pad LS?-1(103.12mm,71.5mm) on Multi-Layer
+Pad LS?-2(95.5mm,71.5mm) on Multi-Layer
+Pad C1-2(72.5mm,86.5mm) on Multi-Layer
+Pad C1-1(72.5mm,91.5mm) on Multi-Layer
+Pad HD2-1(102.8mm,84mm) on Multi-Layer
+Pad HD2-2(102.8mm,86.54mm) on Multi-Layer
+Pad HD2-3(102.8mm,89.08mm) on Multi-Layer
+Pad HD2-4(102.8mm,91.62mm) on Multi-Layer
+Pad HD2-5(102.8mm,94.16mm) on Multi-Layer
+Pad HD2-6(102.8mm,96.7mm) on Multi-Layer
+Pad HD1-1(81.48mm,99.24mm) on Multi-Layer
+Pad HD1-2(81.48mm,96.7mm) on Multi-Layer
+Pad HD1-3(81.48mm,94.16mm) on Multi-Layer
+Pad HD1-4(81.48mm,91.62mm) on Multi-Layer
+Pad HD1-5(81.48mm,89.08mm) on Multi-Layer
+Pad HD1-6(81.48mm,86.54mm) on Multi-Layer
+Pad D1-1(76mm,106.9mm) on Multi-Layer
+Pad D1-2(76mm,96.74mm) on Multi-Layer
+Pad TB1-1(126.82mm,69.82mm) on Multi-Layer
+Pad TB1-2(126.82mm,72.36mm) on Multi-Layer
+Pad TB1-3(126.82mm,74.9mm) on Multi-Layer
+Pad TB1-4(126.82mm,77.44mm) on Multi-Layer
+Pad TB1-5(126.82mm,79.98mm) on Multi-Layer
+Pad TB1-6(126.82mm,82.52mm) on Multi-Layer
+Pad TB1-7(126.82mm,85.06mm) on Multi-Layer
+Pad TB1-8(126.82mm,87.6mm) on Multi-Layer
+Pad TB1-9(126.82mm,90.14mm) on Multi-Layer
+Pad TB1-10(126.82mm,92.68mm) on Multi-Layer
+Pad TB1-11(126.82mm,95.22mm) on Multi-Layer
+Pad TB1-12(126.82mm,97.76mm) on Multi-Layer
+Pad TB1-13(126.82mm,100.3mm) on Multi-Layer
+Pad TB1-14(126.82mm,102.84mm) on Multi-Layer
+Pad TB1-15(126.82mm,105.38mm) on Multi-Layer
+Pad TB1-16(111.58mm,105.38mm) on Multi-Layer
+Pad TB1-17(111.58mm,102.84mm) on Multi-Layer
+Pad TB1-18(111.58mm,100.3mm) on Multi-Layer
+Pad TB1-19(111.58mm,97.76mm) on Multi-Layer
+Pad TB1-20(111.58mm,95.22mm) on Multi-Layer
+Pad TB1-21(111.58mm,92.68mm) on Multi-Layer
+Pad TB1-22(111.58mm,90.14mm) on Multi-Layer
+Pad TB1-23(111.58mm,87.6mm) on Multi-Layer
+Pad TB1-24(111.58mm,85.06mm) on Multi-Layer
+Pad TB1-25(111.58mm,82.52mm) on Multi-Layer
+Pad TB1-26(111.58mm,79.98mm) on Multi-Layer
+Pad TB1-27(111.58mm,77.44mm) on Multi-Layer
+Pad TB1-28(111.58mm,74.9mm) on Multi-Layer
+Pad TB1-29(111.58mm,72.36mm) on Multi-Layer
+Pad TB1-30(111.58mm,69.82mm) on Multi-Layer
+Pad JP2-4(137.5mm,78.36mm) on Multi-Layer
+Pad JP2-3(137.5mm,80.9mm) on Multi-Layer
+Pad JP2-2(137.5mm,83.44mm) on Multi-Layer
+Pad JP2-1(137.5mm,85.98mm) on Multi-Layer
+Pad D2-1(88.3mm,76.3mm) on Multi-Layer
+Pad D2-2(88.3mm,66.14mm) on Multi-Layer
+Pad Q1-3(137.7mm,93.7mm) on Multi-Layer
+Pad Q1-2(137.7mm,96.24mm) on Multi-Layer
+Pad Q1-1(137.7mm,98.78mm) on Multi-Layer
+Pad R1-1(133mm,93.7mm) on Multi-Layer
+Pad R1-2(133mm,102.59mm) on Multi-Layer
+
+Via teardrops failed : 0
+
+Via (140.6mm,72.4mm) from Top Layer to Bottom Layer
+Via (129.78mm,69.82mm) from Top Layer to Bottom Layer
+Via (129.84mm,72.36mm) from Top Layer to Bottom Layer
+Via (137.3mm,69.8mm) from Top Layer to Bottom Layer
+
